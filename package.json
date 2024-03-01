@@ -44,7 +44,7 @@
 		"pump": "^3.0.0"
 	},
 	"peerDependencies": {
-		"multer": ">1.4 || ~1.4.4-lts.1",
+		"multer": ">1.4 || ~1.4.5-lts.1",
 		"mongodb": ">=6"
 	},
 	"devDependencies": {
